@@ -1,0 +1,6 @@
+{
+    "name": "My Honeypot Token",
+    "symbol": "MHT",
+    "description": "Description of token",
+    "image": "https://<ваш-github-username>.github.io/sol-honeypot-metadata/image.png"
+  }
